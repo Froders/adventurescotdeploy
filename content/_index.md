@@ -1,7 +1,7 @@
 ---
-title: 'Ananke: a Hugo Theme'
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
-description: The last theme you'll ever need. Maybe.
+title: Adventures around the world!
+featured_image: "/images/pxl_20211127_125626672.jpg"
+description: By Salme and Tom
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Welcome to our blog! We are a couple from Estonia and Scotland that are about to move to Australia for a year. Welcome to our journey to Australia and the adventures we'll get up to. 
