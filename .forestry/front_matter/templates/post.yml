@@ -24,4 +24,5 @@ fields:
   name: disable_share
   label: disable_share
 pages:
+- content/post/highlands-day-1.md
 - content/post/who-are-we.md
