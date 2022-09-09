@@ -1,6 +1,6 @@
 ---
 title: Adventures around the world!
-featured_image: "/images/pxl_20211127_125626672.jpg"
+featured_image: "/images/pxl_20220822_092806315.jpg"
 description: By Salme and Tom
 
 ---
